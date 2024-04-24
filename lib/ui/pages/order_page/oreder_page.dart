@@ -35,7 +35,7 @@ class OrderPage extends StatelessWidget {
               keyboardType:TextInputType.phone,
               decoration: InputDecoration(
                 border: UnderlineInputBorder(),
-                prefixText: "+998(",
+                prefixText: "+9989",
                 fillColor: Colors.amber,
               ),
             ),
